@@ -1,5 +1,7 @@
 # Arabic Document OCR → Excel
 
+[![CI](https://github.com/hnawito/arabic-doc-ocr/actions/workflows/ci.yml/badge.svg)](https://github.com/hnawito/arabic-doc-ocr/actions/workflows/ci.yml)
+
 A browser-only web app for scanned Arabic documents (printed and handwritten).
 Pick as many images and scanned PDFs as you need, and it reads them with Google
 Gemini using your own API key, then exports **one row per file** to an `.xlsx`
