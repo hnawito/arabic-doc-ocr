@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Local tool state and personal sample scans
+.freebuff/
+.cloud-attachments/
+Samples/
+*.log
